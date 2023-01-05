@@ -2,6 +2,7 @@
 Control a robot arm to grasp and palletize objects automatically with ROS and OpenCV
 
 Used Name: RGB Blocks Classification Using Robot Arm(uARM Swift Pro) with ROS and OpenCV
+Video Link: https://youtu.be/hYwxyzRh7vU
 
 
 # Brief Description
